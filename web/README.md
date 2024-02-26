@@ -1,0 +1,1 @@
+A basic frontend example to use the uptime API.
